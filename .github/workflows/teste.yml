@@ -1,7 +1,6 @@
 name: Test Pipe
 
-on: 
-  push:
+on: push
 
 jobs:
   build:
