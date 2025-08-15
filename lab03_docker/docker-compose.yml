@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: <seu usuario do dockerhub>/webacademy:latest
+    image: sennafox/webacademy_docker:latest
     container_name: webacademydemo
     restart: always
     ports:
