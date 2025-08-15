@@ -33,4 +33,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Fazendo deploy
-        run: echo "Deploy 3 com sucesso!"
+        run: echo "Deploy 7 com sucesso!"
