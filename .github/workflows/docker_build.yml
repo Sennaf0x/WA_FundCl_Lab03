@@ -27,7 +27,7 @@ jobs:
           context: ./
           push: true
           # dockerfile: ./Dockerfile 
-          tags: moisesgc/webacademy:latest
+          tags: sennafox/webacademy_docker:latest
 
   deploy:
     runs-on: ubuntu-latest
